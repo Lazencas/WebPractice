@@ -43,3 +43,46 @@
     width: 1200px;
     margin: 50px auto 50px auto;
 }
+
+.post{
+    max-width: 500px;
+    width: 95%;
+    /* background-color: blueviolet; */
+
+    margin: 20px auto 0 auto;
+
+    box-shadow: 0px 5px 5px 0px gray ;
+    padding: 20px;
+}
+
+.movieurl{
+    width: 450px;
+    margin: 2px auto 5px auto;
+
+    box-shadow: 0px 2px 2px 0px gray ;
+}
+
+.moviecomment{
+    height: 100px;
+    box-shadow: 0px 2px 2px 0px gray ;
+    margin: 5px auto 5px auto;
+}
+
+
+
+.mybtn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.mybtn > button {
+    margin: 5px;
+}
+
+.starpoint{
+
+    
+    
+}
